@@ -1,0 +1,1 @@
+2) Oscillations go away with the addition of the 10uF tantalum capacitor
